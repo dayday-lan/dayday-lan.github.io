@@ -10,9 +10,16 @@ tags: All-flowers
 
 ### Magnolia
 
-* Nobility
-
+* Symbol of beauty, nobility, and dignity
 * Love of nature
+<br>
+
+* In China, it symbolized the clean and pure spirit. 
+* In Japan, the magnolia flower was a symbol of nobility and respect for nature.
+<br>
+
+![]({{ site.baseurl }}/images/Magnolia.jpg)
+<br>
 
 ***
 
